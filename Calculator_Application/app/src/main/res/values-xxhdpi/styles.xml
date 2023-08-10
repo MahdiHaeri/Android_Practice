@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="number_view">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@color/dark_1</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textSize">50sp</item>
+        <item name="android:gravity">end</item>
+    </style>
+
+    <style name="default_button" >
+        <item name="android:layout_height">50pt</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:backgroundTint">@color/dark_3</item>
+        <!--        <item name="android:background">@color/dark_3</item>-->
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+
+    <style name="zero_button" parent="default_button">
+        <item name="android:layout_weight">2</item>
+    </style>
+
+    <style name="orange_button" parent="default_button">
+        <item name="android:backgroundTint">@color/orange_button</item>
+    </style>
+
+    <style name="dark_button" parent="default_button">
+        <item name="android:backgroundTint">@color/dark_2</item>
+    </style>
+
+</resources>

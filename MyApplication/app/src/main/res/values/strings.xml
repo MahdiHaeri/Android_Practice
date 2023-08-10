@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name_message">enter your name</string>
+    <string name="my_button">my button</string>
+    <string name="football">football</string>
+    <string name="tenis">tenis</string>
+    <string name="vallyball">vallyball</string>
+</resources>

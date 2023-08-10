@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <CheckBox
+        android:id="@+id/CheckBoxFootball"
+        android:layout_width="138dp"
+        android:layout_height="57dp"
+        android:layout_marginTop="60dp"
+        android:text="football"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.133"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <CheckBox
+        android:id="@+id/CheckBoxVallyball"
+        android:layout_width="138dp"
+        android:layout_height="57dp"
+        android:layout_marginTop="40dp"
+        android:text="vallyball"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.131"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/CheckBoxFootball" />
+
+    <CheckBox
+        android:id="@+id/CheckBoxTenis"
+        android:layout_width="138dp"
+        android:layout_height="57dp"
+        android:layout_marginTop="40dp"
+        android:text="tenis"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.131"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/CheckBoxVallyball" />
+</androidx.constraintlayout.widget.ConstraintLayout>

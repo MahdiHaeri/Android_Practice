@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/dark_1"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/showNumber"
+        style="@style/number_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="end"
+        android:paddingTop="30pt"
+        android:text="0" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:baselineAligned="false">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/btn_clear"
+                android:onClick="clearEvent"
+                style="@style/dark_button"
+                android:layout_column="0"
+                android:text="C" />
+
+            <Button
+                android:id="@+id/btn_plus_mines"
+                android:onClick="plusMinesEvent"
+                style="@style/dark_button"
+                android:layout_column="1"
+                android:text="+/-" />
+            <Button
+                android:id="@+id/btn_percent"
+                android:onClick="percentEvent"
+                style="@style/dark_button"
+                android:layout_column="2"
+                android:text="%" />
+            <Button
+                android:id="@+id/btn_divide"
+                android:onClick="operationEvent"
+                style="@style/orange_button"
+                android:layout_column="3"
+                android:text="/" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/btn_7"
+                android:onClick="clickButtonEvent"
+                style="@style/default_button"
+                android:layout_column="0"
+                android:text="7" />
+
+            <Button
+                android:id="@+id/btn_8"
+                android:onClick="clickButtonEvent"
+                style="@style/default_button"
+                android:layout_column="1"
+                android:text="8" />
+
+            <Button
+                android:id="@+id/btn_9"
+                android:onClick="clickButtonEvent"
+                style="@style/default_button"
+                android:layout_column="2"
+                android:text="9" />
+
+            <Button
+                android:id="@+id/btn_multiply"
+                android:onClick="operationEvent"
+                style="@style/orange_button"
+                android:layout_column="3"
+                android:text="*" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/btn_4"
+                android:onClick="clickButtonEvent"
+                style="@style/default_button"
+                android:layout_column="0"
+                android:text="4" />
+
+            <Button
+                android:id="@+id/btn_5"
+                android:onClick="clickButtonEvent"
+                style="@style/default_button"
+                android:layout_column="1"
+                android:text="5" />
+
+            <Button
+                android:id="@+id/btn_6"
+                android:onClick="clickButtonEvent"
+                style="@style/default_button"
+                android:layout_column="2"
+                android:text="6" />
+
+            <Button
+                android:id="@+id/btn_plus"
+                android:onClick="operationEvent"
+                style="@style/orange_button"
+                android:layout_column="3"
+                android:text="+" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/btn_1"
+                android:onClick="clickButtonEvent"
+                style="@style/default_button"
+                android:layout_column="0"
+                android:text="1" />
+
+            <Button
+                android:id="@+id/btn_2"
+                android:onClick="clickButtonEvent"
+                style="@style/default_button"
+                android:layout_column="1"
+                android:text="2" />
+
+            <Button
+                android:id="@+id/btn_3"
+                android:onClick="clickButtonEvent"
+                style="@style/default_button"
+                android:layout_column="2"
+                android:text="3" />
+
+            <Button
+                android:id="@+id/btn_minus"
+                android:onClick="operationEvent"
+                style="@style/orange_button"
+                android:layout_column="3"
+                android:text="-" />
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <Button
+                android:id="@+id/btn_0"
+                android:onClick="clickButtonEvent"
+                style="@style/zero_button"
+                android:layout_column="0"
+                android:text="0" />
+
+            <Button
+                android:id="@+id/btn_dot"
+                style="@style/default_button"
+                android:layout_column="2"
+                android:onClick="clickButtonEvent"
+                android:text="." />
+
+            <Button
+                android:id="@+id/btn_equal"
+                android:onClick="equalEvent"
+                style="@style/orange_button"
+                android:layout_column="3"
+                android:text="="/>
+        </TableRow>
+
+    </TableLayout>
+
+</LinearLayout>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Activity_Project</string>
+    <string name="android_developer_fa">توسعه دهنده اندروید</string>
+    <string name="backend_developer_fa">توسعه دهنده بک‌اند</string>
+    <string name="web_developer_fa">توسعه دهنده وب</string>
+    <string name="android_developer_en">Android Developer</string>
+    <string name="backend_developer_en">Backend Developer</string>
+    <string name="web_developer_en">Web Developer</string>
+</resources>
