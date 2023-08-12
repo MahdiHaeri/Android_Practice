@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-merged_res-28:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-main-30:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-merged_res-28:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-main-30:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-main-30:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.todolist.app-merged_res-28:/layout_chore_item.xml.flat",
+        "source": "com.example.todolist.app-main-30:/layout/chore_item.xml"
+    },
+    {
+        "merged": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-main-30:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-main-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-merged_res-28:/layout_chore_item.xml.flat",
+        "source": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-main-30:/layout/chore_item.xml"
+    },
+    {
+        "merged": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-merged_res-28:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-main-30:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-merged_res-28:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-main-30:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-merged_res-28:/menu_top_menu.xml.flat",
+        "source": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-main-30:/menu/top_menu.xml"
+    },
+    {
+        "merged": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-merged_res-28:/layout_popup.xml.flat",
+        "source": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-main-30:/layout/popup.xml"
+    },
+    {
+        "merged": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-merged_res-28:/layout_activity_chore_list.xml.flat",
+        "source": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-main-30:/layout/activity_chore_list.xml"
+    },
+    {
+        "merged": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-main-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-merged_res-28:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-main-30:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-merged_res-28:/xml_backup_rules.xml.flat",
+        "source": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-main-30:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-merged_res-28:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-main-30:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-main-30:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-merged_res-28:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-main-30:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-merged_res-28:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-main-30:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-merged_res-28:/drawable_avatar.jpg.flat",
+        "source": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-main-30:/drawable/avatar.jpg"
+    },
+    {
+        "merged": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-merged_res-28:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-main-30:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-merged_res-28:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-main-30:/mipmap-hdpi/ic_launcher.webp"
+    }
+]

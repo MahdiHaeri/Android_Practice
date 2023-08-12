@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable avatar
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id add_menu_button
+id assignByTextView
+id assignByTp
+id assignToTextView
+id assignToTp
+id choreImageView
+id choreListRecyclerView
+id choreNameTextView
+id dateTextView
+id deleteChoreButton
+id editChoreButton
+id enterChoreTp
+id saveChoreButton
+layout activity_chore_list
+layout activity_main
+layout chore_item
+layout popup
+menu top_menu
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string assign_by
+string assign_to
+string enter_a_chore
+string image_description
+string save_chore
+style Base.Theme.ToDoList
+style Theme.ToDoList
+xml backup_rules
+xml data_extraction_rules

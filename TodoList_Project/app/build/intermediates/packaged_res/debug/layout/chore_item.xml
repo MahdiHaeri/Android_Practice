@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_marginBottom="10dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:padding="10dp">
+
+        <RelativeLayout
+            android:padding="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <ImageView
+                android:id="@+id/choreImageView"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:contentDescription="@string/image_description"
+                android:src="@drawable/avatar"/>
+
+
+            <TextView
+                android:layout_toEndOf="@id/choreImageView"
+                android:layout_marginStart="8dp"
+                android:textStyle="bold"
+                android:textSize="16sp"
+                android:id="@+id/choreNameTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chore name" />
+
+            <TextView
+                android:id="@+id/assignByTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/choreNameTextView"
+                android:layout_marginStart="8dp"
+                android:layout_toEndOf="@id/choreImageView"
+                android:text="Assign By: " />
+
+            <TextView
+                android:id="@+id/assignToTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/assignByTextView"
+                android:layout_marginStart="8dp"
+                android:layout_toEndOf="@id/choreImageView"
+                android:text="Assign To:" />
+
+
+            <TextView
+                android:layout_alignParentEnd="true"
+                android:layout_alignBottom="@id/choreImageView"
+                android:id="@+id/dateTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Date: 19 july 2022" />
+
+            <ImageButton
+                android:id="@+id/deleteChoreButton"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_alignParentEnd="true"
+                android:background="@android:drawable/ic_menu_delete"
+                android:contentDescription="Delete chore"
+                android:padding="10dp" />
+
+            <ImageButton
+                android:id="@+id/editChoreButton"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_toStartOf="@id/deleteChoreButton"
+                android:background="@android:drawable/ic_menu_edit"
+                android:contentDescription="Edit Todo"
+                android:padding="10dp" />
+
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>

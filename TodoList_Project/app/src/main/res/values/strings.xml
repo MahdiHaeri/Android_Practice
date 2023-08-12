@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="assign_by">Assign by</string>
+    <string name="assign_to">Assign to</string>
+    <string name="enter_a_chore">Enter a chore</string>
+    <string name="save_chore">Save chore</string>
+    <string name="image_description">Image description</string>
+</resources>

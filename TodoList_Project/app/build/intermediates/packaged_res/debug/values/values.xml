@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">ToDoList</string>
+    <string name="assign_by">Assign by</string>
+    <string name="assign_to">Assign to</string>
+    <string name="enter_a_chore">Enter a chore</string>
+    <string name="image_description">Image description</string>
+    <string name="save_chore">Save chore</string>
+    <style name="Base.Theme.ToDoList" parent="Theme.Material3.DayNight">
+        
+        
+    </style>
+    <style name="Theme.ToDoList" parent="Base.Theme.ToDoList"/>
+</resources>

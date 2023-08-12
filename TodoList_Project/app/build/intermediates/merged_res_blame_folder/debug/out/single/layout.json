@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-mergeDebugResources-27:/layout/activity_chore_list.xml",
+        "source": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-main-30:/layout/activity_chore_list.xml"
+    },
+    {
+        "merged": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-mergeDebugResources-27:/layout/activity_main.xml",
+        "source": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-mergeDebugResources-27:/layout/popup.xml",
+        "source": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-main-30:/layout/popup.xml"
+    },
+    {
+        "merged": "com.example.todolist.app-mergeDebugResources-27:/layout/chore_item.xml",
+        "source": "com.example.todolist.app-main-30:/layout/chore_item.xml"
+    },
+    {
+        "merged": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-mergeDebugResources-27:/layout/chore_item.xml",
+        "source": "/Users/mahdi/.gradle/daemon/8.0/com.example.todolist.app-main-30:/layout/chore_item.xml"
+    }
+]
