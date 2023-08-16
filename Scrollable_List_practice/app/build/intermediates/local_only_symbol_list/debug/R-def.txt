@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable image1
+drawable image10
+drawable image2
+drawable image3
+drawable image4
+drawable image5
+drawable image6
+drawable image7
+drawable image8
+drawable image9
+mipmap ic_launcher
+mipmap ic_launcher_round
+string affirmation1
+string affirmation10
+string affirmation2
+string affirmation3
+string affirmation4
+string affirmation5
+string affirmation6
+string affirmation7
+string affirmation8
+string affirmation9
+string app_name
+style Theme.Affirmations
