@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "com.example.woof.app-merged_res-45:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.woof.app-main-47:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.woof.app-merged_res-45:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.woof.app-main-47:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.woof.app-merged_res-45:/drawable_leroy.jpg.flat",
+        "source": "com.example.woof.app-main-47:/drawable/leroy.jpg"
+    },
+    {
+        "merged": "com.example.woof.app-merged_res-45:/drawable_lola.jpg.flat",
+        "source": "com.example.woof.app-main-47:/drawable/lola.jpg"
+    },
+    {
+        "merged": "com.example.woof.app-merged_res-45:/drawable_moana.jpg.flat",
+        "source": "com.example.woof.app-main-47:/drawable/moana.jpg"
+    },
+    {
+        "merged": "com.example.woof.app-merged_res-45:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.woof.app-main-47:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.woof.app-merged_res-45:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.woof.app-main-47:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.woof.app-merged_res-45:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.woof.app-main-47:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.woof.app-merged_res-45:/font_abril_fatface_regular.ttf.flat",
+        "source": "com.example.woof.app-main-47:/font/abril_fatface_regular.ttf"
+    },
+    {
+        "merged": "com.example.woof.app-merged_res-45:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.woof.app-main-47:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.woof.app-merged_res-45:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.woof.app-main-47:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.woof.app-merged_res-45:/drawable_faye.jpg.flat",
+        "source": "com.example.woof.app-main-47:/drawable/faye.jpg"
+    },
+    {
+        "merged": "com.example.woof.app-merged_res-45:/drawable_koda.jpg.flat",
+        "source": "com.example.woof.app-main-47:/drawable/koda.jpg"
+    },
+    {
+        "merged": "com.example.woof.app-merged_res-45:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.woof.app-main-47:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.woof.app-merged_res-45:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.woof.app-main-47:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.woof.app-merged_res-45:/font_montserrat_bold.ttf.flat",
+        "source": "com.example.woof.app-main-47:/font/montserrat_bold.ttf"
+    },
+    {
+        "merged": "com.example.woof.app-merged_res-45:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.woof.app-main-47:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.woof.app-merged_res-45:/drawable_tzeitel.jpg.flat",
+        "source": "com.example.woof.app-main-47:/drawable/tzeitel.jpg"
+    },
+    {
+        "merged": "com.example.woof.app-merged_res-45:/drawable_bella.jpg.flat",
+        "source": "com.example.woof.app-main-47:/drawable/bella.jpg"
+    },
+    {
+        "merged": "com.example.woof.app-merged_res-45:/drawable_frankie.jpg.flat",
+        "source": "com.example.woof.app-main-47:/drawable/frankie.jpg"
+    },
+    {
+        "merged": "com.example.woof.app-merged_res-45:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.woof.app-main-47:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.woof.app-merged_res-45:/drawable_nox.jpg.flat",
+        "source": "com.example.woof.app-main-47:/drawable/nox.jpg"
+    },
+    {
+        "merged": "com.example.woof.app-merged_res-45:/drawable_ic_woof_logo.xml.flat",
+        "source": "com.example.woof.app-main-47:/drawable/ic_woof_logo.xml"
+    },
+    {
+        "merged": "com.example.woof.app-merged_res-45:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.woof.app-main-47:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.woof.app-merged_res-45:/font_montserrat_regular.ttf.flat",
+        "source": "com.example.woof.app-main-47:/font/montserrat_regular.ttf"
+    },
+    {
+        "merged": "com.example.woof.app-merged_res-45:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.woof.app-main-47:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.woof.app-merged_res-45:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.woof.app-main-47:/mipmap-hdpi/ic_launcher.webp"
+    }
+]
