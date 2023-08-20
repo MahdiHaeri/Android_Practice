@@ -39,9 +39,9 @@ com.example.woof.app-core-ktx-1.10.1-37 /Users/mahdi/.gradle/caches/transforms-3
 com.example.woof.app-foundation-1.4.3-38 /Users/mahdi/.gradle/caches/transforms-3/e0faa4b74d0c9d5f401b5a631467d634/transformed/foundation-1.4.3/res
 com.example.woof.app-material-1.4.3-39 /Users/mahdi/.gradle/caches/transforms-3/e356fb2c465fcb379e3a76534956f312/transformed/material-1.4.3/res
 com.example.woof.app-ui-text-1.4.3-40 /Users/mahdi/.gradle/caches/transforms-3/eec140d30a234521e476e3e227234961/transformed/ui-text-1.4.3/res
-com.example.woof.app-resValues-41 /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/build/generated/res/resValues/debug
-com.example.woof.app-packageDebugResources-42 /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.example.woof.app-packageDebugResources-43 /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.example.woof.app-merged_res-44 /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/build/intermediates/merged_res/debug
-com.example.woof.app-debug-45 /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/debug/res
-com.example.woof.app-main-46 /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/res
+com.example.woof.app-resValues-41 /Users/mahdi/Desktop/Android_Practice/woof/app/build/generated/res/resValues/debug
+com.example.woof.app-packageDebugResources-42 /Users/mahdi/Desktop/Android_Practice/woof/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.woof.app-packageDebugResources-43 /Users/mahdi/Desktop/Android_Practice/woof/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.woof.app-merged_res-44 /Users/mahdi/Desktop/Android_Practice/woof/app/build/intermediates/merged_res/debug
+com.example.woof.app-debug-45 /Users/mahdi/Desktop/Android_Practice/woof/app/src/debug/res
+com.example.woof.app-main-46 /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/res

@@ -1,9 +1,9 @@
-#Wed Aug 16 23:25:44 IRST 2023
-base.0=/Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
-base.1=/Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
-base.2=/Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/build/intermediates/dex/debug/mergeProjectDexDebug/2/classes.dex
-base.3=/Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/build/intermediates/dex/debug/mergeProjectDexDebug/8/classes.dex
-base.4=/Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
+#Fri Aug 18 21:41:35 IRST 2023
+base.0=/Users/mahdi/Desktop/Android_Practice/woof/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/Users/mahdi/Desktop/Android_Practice/woof/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/Users/mahdi/Desktop/Android_Practice/woof/app/build/intermediates/dex/debug/mergeProjectDexDebug/2/classes.dex
+base.3=/Users/mahdi/Desktop/Android_Practice/woof/app/build/intermediates/dex/debug/mergeProjectDexDebug/8/classes.dex
+base.4=/Users/mahdi/Desktop/Android_Practice/woof/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=2/classes.dex

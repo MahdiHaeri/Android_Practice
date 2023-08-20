@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml:17:1-40:12
-INJECTED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml:17:1-40:12
-INJECTED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml:17:1-40:12
-INJECTED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml:17:1-40:12
+ADDED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml:17:1-40:12
+INJECTED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml:17:1-40:12
+INJECTED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml:17:1-40:12
+INJECTED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml:17:1-40:12
 MERGED from [androidx.compose.material3:material3:1.1.0] /Users/mahdi/.gradle/caches/transforms-3/b99020522f7621421f89f0488385b20b/transformed/material3-1.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.compose.material:material:1.4.3] /Users/mahdi/.gradle/caches/transforms-3/e356fb2c465fcb379e3a76534956f312/transformed/material-1.4.3/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.compose.material:material-icons-core:1.4.3] /Users/mahdi/.gradle/caches/transforms-3/10c5713fb03e687326433e23d76fd7cd/transformed/material-icons-core-1.4.3/AndroidManifest.xml:17:1-22:12
@@ -49,27 +49,27 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mahd
 MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/mahdi/.gradle/caches/transforms-3/13cefa8248cfd3027672eb57ad638218/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/mahdi/.gradle/caches/transforms-3/4312cb2404fab8f5e67e09602bd0d746/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.tracing:tracing:1.0.0] /Users/mahdi/.gradle/caches/transforms-3/1b48f0aeff8d7cd3ce2edd6058c0719f/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml:17:1-40:12
-INJECTED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml:17:1-40:12
-INJECTED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml:17:1-40:12
+INJECTED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml:17:1-40:12
+INJECTED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml:17:1-40:12
+INJECTED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml:17:1-40:12
 	package
-		INJECTED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml:17:1-40:12
-		INJECTED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml:17:1-40:12
+		INJECTED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml:17:1-40:12
-		INJECTED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml:17:1-40:12
+		INJECTED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml:18:5-51
+		ADDED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml:18:5-51
 	android:versionCode
-		INJECTED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml:17:1-40:12
-		INJECTED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml:17:1-40:12
+		INJECTED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml:17:11-69
+		ADDED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml:17:11-69
 application
-ADDED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml:20:5-38:19
+ADDED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml:20:5-38:19
 MERGED from [androidx.compose.ui:ui-test-manifest:1.4.3] /Users/mahdi/.gradle/caches/transforms-3/9cf088d154f6b9173d64325023ca1723/transformed/ui-test-manifest-1.4.3/AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.compose.ui:ui-test-manifest:1.4.3] /Users/mahdi/.gradle/caches/transforms-3/9cf088d154f6b9173d64325023ca1723/transformed/ui-test-manifest-1.4.3/AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.compose.ui:ui-tooling:1.4.3] /Users/mahdi/.gradle/caches/transforms-3/b3c52a4aa14147c8449ca16d1f02f2fd/transformed/ui-tooling-1.4.3/AndroidManifest.xml:22:5-26:19
@@ -89,43 +89,43 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/mahdi/.gradle/caches
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.10.1] /Users/mahdi/.gradle/caches/transforms-3/81ede7962c6a7747c6988cff573674d4/transformed/core-1.10.1/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml:25:9-35
+		ADDED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml:25:9-35
 	android:label
-		ADDED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml:23:9-41
+		ADDED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml:23:9-41
 	android:roundIcon
-		ADDED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml:24:9-54
+		ADDED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml:24:9-54
 	tools:targetApi
-		ADDED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml:27:9-29
+		ADDED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml:27:9-29
 	android:icon
-		ADDED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml:22:9-43
+		ADDED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml:22:9-43
 	android:allowBackup
-		ADDED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml:21:9-35
+		ADDED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml:21:9-35
 	android:theme
-		ADDED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml:26:9-42
+		ADDED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml:26:9-42
 activity#com.example.woof.MainActivity
-ADDED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml:28:9-37:20
+ADDED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml:28:9-37:20
 	android:label
-		ADDED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml:31:13-45
+		ADDED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml:31:13-45
 	android:exported
-		ADDED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml:30:13-36
+		ADDED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml:30:13-36
 	android:theme
-		ADDED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml:32:13-46
+		ADDED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml:32:13-46
 	android:name
-		ADDED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml:29:13-41
+		ADDED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml:29:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml:33:13-36:29
+ADDED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml:33:13-36:29
 action#android.intent.action.MAIN
-ADDED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml:34:17-69
+ADDED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml:34:17-69
 	android:name
-		ADDED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml:34:25-66
+		ADDED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml:34:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml:35:17-77
+ADDED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml:35:17-77
 	android:name
-		ADDED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml:35:27-74
+		ADDED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml:35:27-74
 uses-sdk
-INJECTED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml
-INJECTED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml
 MERGED from [androidx.compose.material3:material3:1.1.0] /Users/mahdi/.gradle/caches/transforms-3/b99020522f7621421f89f0488385b20b/transformed/material3-1.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.compose.material3:material3:1.1.0] /Users/mahdi/.gradle/caches/transforms-3/b99020522f7621421f89f0488385b20b/transformed/material3-1.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.compose.material:material:1.4.3] /Users/mahdi/.gradle/caches/transforms-3/e356fb2c465fcb379e3a76534956f312/transformed/material-1.4.3/AndroidManifest.xml:20:5-44
@@ -216,16 +216,16 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/mahdi/.gradle/caches
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/mahdi/.gradle/caches/transforms-3/4312cb2404fab8f5e67e09602bd0d746/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.tracing:tracing:1.0.0] /Users/mahdi/.gradle/caches/transforms-3/1b48f0aeff8d7cd3ce2edd6058c0719f/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.tracing:tracing:1.0.0] /Users/mahdi/.gradle/caches/transforms-3/1b48f0aeff8d7cd3ce2edd6058c0719f/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml
-INJECTED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/mahdi/AndroidStudioProjects/basic-android-kotlin-compose-training-woof/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mahdi/Desktop/Android_Practice/woof/app/src/main/AndroidManifest.xml
 activity#androidx.activity.ComponentActivity
 ADDED from [androidx.compose.ui:ui-test-manifest:1.4.3] /Users/mahdi/.gradle/caches/transforms-3/9cf088d154f6b9173d64325023ca1723/transformed/ui-test-manifest-1.4.3/AndroidManifest.xml:23:9-25:39
 	android:exported
