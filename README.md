@@ -1,2 +1,2 @@
-# Andriod_Practice
+# Android_Practice
 Android programming practice 
