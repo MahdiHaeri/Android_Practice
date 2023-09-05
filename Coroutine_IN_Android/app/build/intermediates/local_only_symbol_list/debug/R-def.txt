@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+dimen padding_large
+dimen padding_medium
+dimen padding_small
+dimen progress_indicator_corner_radius
+dimen progress_indicator_height
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_walk
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string pause
+string player_one_name
+string player_two_name
+string progress_percentage
+string reset
+string run_a_race
+string start
+style Theme.RaceTracker

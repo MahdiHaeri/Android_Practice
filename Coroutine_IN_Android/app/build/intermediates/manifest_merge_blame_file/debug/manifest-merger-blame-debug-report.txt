@@ -1,0 +1,159 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3  ~ Copyright (C) 2023 The Android Open Source Project
+4  ~
+5  ~ Licensed under the Apache License, Version 2.0 (the "License");
+6  ~ you may not use this file except in compliance with the License.
+7  ~ You may obtain a copy of the License at
+8  ~
+9  ~     https://www.apache.org/licenses/LICENSE-2.0
+10  ~
+11  ~ Unless required by applicable law or agreed to in writing, software
+12  ~ distributed under the License is distributed on an "AS IS" BASIS,
+13  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14  ~ See the License for the specific language governing permissions and
+15  ~ limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.example.racetracker"
+19    android:versionCode="1"
+20    android:versionName="1.0" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="24"
+23-->/Users/mahdi/Desktop/Android_Test/basic-android-kotlin-compose-training-race-tracker/app/src/main/AndroidManifest.xml
+24        android:targetSdkVersion="33" />
+24-->/Users/mahdi/Desktop/Android_Test/basic-android-kotlin-compose-training-race-tracker/app/src/main/AndroidManifest.xml
+25
+26    <permission
+26-->[androidx.core:core:1.10.1] /Users/mahdi/.gradle/caches/transforms-3/81ede7962c6a7747c6988cff573674d4/transformed/core-1.10.1/AndroidManifest.xml:22:5-24:47
+27        android:name="com.example.racetracker.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+27-->[androidx.core:core:1.10.1] /Users/mahdi/.gradle/caches/transforms-3/81ede7962c6a7747c6988cff573674d4/transformed/core-1.10.1/AndroidManifest.xml:23:9-81
+28        android:protectionLevel="signature" />
+28-->[androidx.core:core:1.10.1] /Users/mahdi/.gradle/caches/transforms-3/81ede7962c6a7747c6988cff573674d4/transformed/core-1.10.1/AndroidManifest.xml:24:9-44
+29
+30    <uses-permission android:name="com.example.racetracker.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+30-->[androidx.core:core:1.10.1] /Users/mahdi/.gradle/caches/transforms-3/81ede7962c6a7747c6988cff573674d4/transformed/core-1.10.1/AndroidManifest.xml:26:5-97
+30-->[androidx.core:core:1.10.1] /Users/mahdi/.gradle/caches/transforms-3/81ede7962c6a7747c6988cff573674d4/transformed/core-1.10.1/AndroidManifest.xml:26:22-94
+31
+32    <application
+32-->/Users/mahdi/Desktop/Android_Test/basic-android-kotlin-compose-training-race-tracker/app/src/main/AndroidManifest.xml:20:5-38:19
+33        android:allowBackup="true"
+33-->/Users/mahdi/Desktop/Android_Test/basic-android-kotlin-compose-training-race-tracker/app/src/main/AndroidManifest.xml:21:9-35
+34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+34-->[androidx.core:core:1.10.1] /Users/mahdi/.gradle/caches/transforms-3/81ede7962c6a7747c6988cff573674d4/transformed/core-1.10.1/AndroidManifest.xml:28:18-86
+35        android:debuggable="true"
+36        android:extractNativeLibs="false"
+37        android:icon="@mipmap/ic_launcher"
+37-->/Users/mahdi/Desktop/Android_Test/basic-android-kotlin-compose-training-race-tracker/app/src/main/AndroidManifest.xml:22:9-43
+38        android:label="@string/app_name"
+38-->/Users/mahdi/Desktop/Android_Test/basic-android-kotlin-compose-training-race-tracker/app/src/main/AndroidManifest.xml:23:9-41
+39        android:roundIcon="@mipmap/ic_launcher_round"
+39-->/Users/mahdi/Desktop/Android_Test/basic-android-kotlin-compose-training-race-tracker/app/src/main/AndroidManifest.xml:24:9-54
+40        android:supportsRtl="true"
+40-->/Users/mahdi/Desktop/Android_Test/basic-android-kotlin-compose-training-race-tracker/app/src/main/AndroidManifest.xml:25:9-35
+41        android:testOnly="true"
+42        android:theme="@style/Theme.RaceTracker" >
+42-->/Users/mahdi/Desktop/Android_Test/basic-android-kotlin-compose-training-race-tracker/app/src/main/AndroidManifest.xml:26:9-49
+43        <activity
+43-->/Users/mahdi/Desktop/Android_Test/basic-android-kotlin-compose-training-race-tracker/app/src/main/AndroidManifest.xml:28:9-37:20
+44            android:name="com.example.racetracker.MainActivity"
+44-->/Users/mahdi/Desktop/Android_Test/basic-android-kotlin-compose-training-race-tracker/app/src/main/AndroidManifest.xml:29:13-41
+45            android:exported="true"
+45-->/Users/mahdi/Desktop/Android_Test/basic-android-kotlin-compose-training-race-tracker/app/src/main/AndroidManifest.xml:30:13-36
+46            android:label="@string/app_name"
+46-->/Users/mahdi/Desktop/Android_Test/basic-android-kotlin-compose-training-race-tracker/app/src/main/AndroidManifest.xml:31:13-45
+47            android:theme="@style/Theme.RaceTracker" >
+47-->/Users/mahdi/Desktop/Android_Test/basic-android-kotlin-compose-training-race-tracker/app/src/main/AndroidManifest.xml:32:13-53
+48            <intent-filter>
+48-->/Users/mahdi/Desktop/Android_Test/basic-android-kotlin-compose-training-race-tracker/app/src/main/AndroidManifest.xml:33:13-36:29
+49                <action android:name="android.intent.action.MAIN" />
+49-->/Users/mahdi/Desktop/Android_Test/basic-android-kotlin-compose-training-race-tracker/app/src/main/AndroidManifest.xml:34:17-69
+49-->/Users/mahdi/Desktop/Android_Test/basic-android-kotlin-compose-training-race-tracker/app/src/main/AndroidManifest.xml:34:25-66
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->/Users/mahdi/Desktop/Android_Test/basic-android-kotlin-compose-training-race-tracker/app/src/main/AndroidManifest.xml:35:17-77
+51-->/Users/mahdi/Desktop/Android_Test/basic-android-kotlin-compose-training-race-tracker/app/src/main/AndroidManifest.xml:35:27-74
+52            </intent-filter>
+53        </activity>
+54        <activity
+54-->[androidx.compose.ui:ui-test-manifest:1.4.3] /Users/mahdi/.gradle/caches/transforms-3/9cf088d154f6b9173d64325023ca1723/transformed/ui-test-manifest-1.4.3/AndroidManifest.xml:23:9-25:39
+55            android:name="androidx.activity.ComponentActivity"
+55-->[androidx.compose.ui:ui-test-manifest:1.4.3] /Users/mahdi/.gradle/caches/transforms-3/9cf088d154f6b9173d64325023ca1723/transformed/ui-test-manifest-1.4.3/AndroidManifest.xml:24:13-63
+56            android:exported="true" />
+56-->[androidx.compose.ui:ui-test-manifest:1.4.3] /Users/mahdi/.gradle/caches/transforms-3/9cf088d154f6b9173d64325023ca1723/transformed/ui-test-manifest-1.4.3/AndroidManifest.xml:25:13-36
+57        <activity
+57-->[androidx.compose.ui:ui-tooling:1.4.3] /Users/mahdi/.gradle/caches/transforms-3/b3c52a4aa14147c8449ca16d1f02f2fd/transformed/ui-tooling-1.4.3/AndroidManifest.xml:23:9-25:39
+58            android:name="androidx.compose.ui.tooling.PreviewActivity"
+58-->[androidx.compose.ui:ui-tooling:1.4.3] /Users/mahdi/.gradle/caches/transforms-3/b3c52a4aa14147c8449ca16d1f02f2fd/transformed/ui-tooling-1.4.3/AndroidManifest.xml:24:13-71
+59            android:exported="true" />
+59-->[androidx.compose.ui:ui-tooling:1.4.3] /Users/mahdi/.gradle/caches/transforms-3/b3c52a4aa14147c8449ca16d1f02f2fd/transformed/ui-tooling-1.4.3/AndroidManifest.xml:25:13-36
+60
+61        <provider
+61-->[androidx.emoji2:emoji2:1.3.0] /Users/mahdi/.gradle/caches/transforms-3/d75d78283a400f377276080f530002f8/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+62            android:name="androidx.startup.InitializationProvider"
+62-->[androidx.emoji2:emoji2:1.3.0] /Users/mahdi/.gradle/caches/transforms-3/d75d78283a400f377276080f530002f8/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+63            android:authorities="com.example.racetracker.androidx-startup"
+63-->[androidx.emoji2:emoji2:1.3.0] /Users/mahdi/.gradle/caches/transforms-3/d75d78283a400f377276080f530002f8/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+64            android:exported="false" >
+64-->[androidx.emoji2:emoji2:1.3.0] /Users/mahdi/.gradle/caches/transforms-3/d75d78283a400f377276080f530002f8/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+65            <meta-data
+65-->[androidx.emoji2:emoji2:1.3.0] /Users/mahdi/.gradle/caches/transforms-3/d75d78283a400f377276080f530002f8/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+66                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+66-->[androidx.emoji2:emoji2:1.3.0] /Users/mahdi/.gradle/caches/transforms-3/d75d78283a400f377276080f530002f8/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+67                android:value="androidx.startup" />
+67-->[androidx.emoji2:emoji2:1.3.0] /Users/mahdi/.gradle/caches/transforms-3/d75d78283a400f377276080f530002f8/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+68            <meta-data
+68-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/mahdi/.gradle/caches/transforms-3/b07145658d9c6e0d4b61c61280636791/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+69                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+69-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/mahdi/.gradle/caches/transforms-3/b07145658d9c6e0d4b61c61280636791/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+70                android:value="androidx.startup" />
+70-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/mahdi/.gradle/caches/transforms-3/b07145658d9c6e0d4b61c61280636791/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+71            <meta-data
+71-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdi/.gradle/caches/transforms-3/b713435de79e6f2751f951e7d72a7fb9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+72                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+72-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdi/.gradle/caches/transforms-3/b713435de79e6f2751f951e7d72a7fb9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+73                android:value="androidx.startup" />
+73-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdi/.gradle/caches/transforms-3/b713435de79e6f2751f951e7d72a7fb9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+74        </provider>
+75
+76        <receiver
+76-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdi/.gradle/caches/transforms-3/b713435de79e6f2751f951e7d72a7fb9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+77            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+77-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdi/.gradle/caches/transforms-3/b713435de79e6f2751f951e7d72a7fb9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+78            android:directBootAware="false"
+78-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdi/.gradle/caches/transforms-3/b713435de79e6f2751f951e7d72a7fb9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+79            android:enabled="true"
+79-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdi/.gradle/caches/transforms-3/b713435de79e6f2751f951e7d72a7fb9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+80            android:exported="true"
+80-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdi/.gradle/caches/transforms-3/b713435de79e6f2751f951e7d72a7fb9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+81            android:permission="android.permission.DUMP" >
+81-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdi/.gradle/caches/transforms-3/b713435de79e6f2751f951e7d72a7fb9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+82            <intent-filter>
+82-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdi/.gradle/caches/transforms-3/b713435de79e6f2751f951e7d72a7fb9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+83                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+83-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdi/.gradle/caches/transforms-3/b713435de79e6f2751f951e7d72a7fb9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+83-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdi/.gradle/caches/transforms-3/b713435de79e6f2751f951e7d72a7fb9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+84            </intent-filter>
+85            <intent-filter>
+85-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdi/.gradle/caches/transforms-3/b713435de79e6f2751f951e7d72a7fb9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+86                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+86-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdi/.gradle/caches/transforms-3/b713435de79e6f2751f951e7d72a7fb9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+86-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdi/.gradle/caches/transforms-3/b713435de79e6f2751f951e7d72a7fb9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+87            </intent-filter>
+88            <intent-filter>
+88-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdi/.gradle/caches/transforms-3/b713435de79e6f2751f951e7d72a7fb9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+89                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+89-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdi/.gradle/caches/transforms-3/b713435de79e6f2751f951e7d72a7fb9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+89-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdi/.gradle/caches/transforms-3/b713435de79e6f2751f951e7d72a7fb9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+90            </intent-filter>
+91            <intent-filter>
+91-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdi/.gradle/caches/transforms-3/b713435de79e6f2751f951e7d72a7fb9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+92                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdi/.gradle/caches/transforms-3/b713435de79e6f2751f951e7d72a7fb9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdi/.gradle/caches/transforms-3/b713435de79e6f2751f951e7d72a7fb9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+93            </intent-filter>
+94        </receiver>
+95    </application>
+96
+97</manifest>
